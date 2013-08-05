@@ -1,0 +1,15 @@
+WEB-INF/*
+litepost/*
+mxunit/*
+introduction/*
+skeleton/*
+examples/*
+docs/*
+org/*
+.project
+settings.xml
+.settings/org.eclipse.core.resources.prefs
+# Intellij IDEA files
+*.iml
+*.ipr
+*.idea

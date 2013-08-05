@@ -5,7 +5,7 @@
 				<ul class="nav nav-list">
 					<li class="nav-header">Sidebar</li>
 					<li class="active"><a href="#">Self</a></li>
-					<li><a href="schools.cfm">Schools</a></li>
+					<li><a href="?action=schools">Schools</a></li>
 					<li><a href="#">Teachers</a></li>
 					<li><a href="#">Students</a></li>
 					<li><a href="#">Sections</a></li>
